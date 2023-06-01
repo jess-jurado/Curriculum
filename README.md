@@ -13,7 +13,7 @@ Me enorgullece haber contribuido a proyectos notables, incluyendo:
 
 - Proyecto de Gestión de Vacaciones - Hikron: Desarrollo de una aplicación web utilizando Angular, TypeScript y Node.js
 - Implementación web del juego Blackjack: Creación de una versión interactiva del popular juego utilizando HTML, CSS y JavaScript
-- Mokepon Legends: Participación en el desarrollo de un juego en línea basado en JavaScript, HTML y CSS
+- Mokepon Legends: Desarrollo de un juego en línea basado en JavaScript, HTML y CSS
 
 Siempre estoy buscando nuevos desafíos y oportunidades para seguir creciendo profesionalmente. ¡No dudes en contactarme!
 
