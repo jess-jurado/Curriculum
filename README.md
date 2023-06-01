@@ -1,8 +1,8 @@
 # Jesús G. Jurado
 
-## Desarrollador de Software y Ciberseguridad
+## Desarrollador web y Ciberseguridad
 
-¡Hola! Soy Jesús G. Jurado, un apasionado del desarrollo de software y la ciberseguridad. A lo largo de mi carrera, he adquirido habilidades en diversas áreas tecnológicas. Aquí te presento un resumen de mis habilidades principales:
+¡Hola! Soy Jesús G. Jurado, un apasionado del desarrollo web y la ciberseguridad. A lo largo de mi carrera, he adquirido habilidades en diversas áreas tecnológicas. Aquí te presento un resumen de mis habilidades principales:
 
 - **Lenguajes de programación:** HTML, CSS, JavaScript, Python, C
 - **Ciberseguridad:** Conocimientos en seguridad informática, cifrado de datos y análisis de vulnerabilidades
