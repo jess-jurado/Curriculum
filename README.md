@@ -20,3 +20,4 @@ Siempre estoy buscando nuevos desafíos y oportunidades para seguir creciendo pr
 - LinkedIn: [Jesús G. Jurado](https://www.linkedin.com/in/jesus-g-jurado-498715191)
 - Correo electrónico: [jssgjurado@gmail.com](mailto:jssgjurado@gmail.com)
 - Mi CV: pinche [aquí](https://github.com/jess-jurado/Curriculum/blob/master/curriculum_v2.0.pdf)
+- [Más sobre mí](https://github.com/jess-jurado/Curriculum/blob/master/carta%20de%20presentaci%C3%B3n.pdf)
